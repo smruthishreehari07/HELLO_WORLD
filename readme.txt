@@ -9,8 +9,8 @@ index.html: Contains the HTML code that displays the heading "HELLO WORLD" and t
 static/: This folder is used to store static files such as CSS, JavaScript, and images. It is currently empty.
 
 Requirements
-Python 3
-Flask
+-Python 3
+-Flask
 
 Technologies Used
 -Python
