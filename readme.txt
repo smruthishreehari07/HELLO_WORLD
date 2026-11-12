@@ -13,7 +13,7 @@ Python 3
 Flask
 
 Technologies Used
-Python
-Flask
-HTML
-Purpose
+-Python
+-Flask
+-HTML
+-Purpose
