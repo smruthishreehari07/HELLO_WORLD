@@ -1,5 +1,4 @@
 Flask Application
-
 About the Project
 This is a basic web application developed using Python Flask. It displays a Hello World message on a webpage. This project demonstrates how to create a Flask application and display an HTML page using Flask's template rendering feature.
 
